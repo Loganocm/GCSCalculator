@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GCSCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GCSCalculator_jar</output-path>
+    <root id="archive" name="GCSCalculator.jar">
+      <element id="module-output" name="GCSCalculator" />
+    </root>
+  </artifact>
+</component>
