@@ -8,4 +8,4 @@ Challenges:
 File Reading, Parsing, Writing
 Algorithm Development
 
-This program outputs a .txt file with gene comparisons between phages.
+This program reads formatted files of phage DNA outputs a .txt file with gene comparisons between phages.
